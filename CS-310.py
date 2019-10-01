@@ -1,0 +1,5 @@
+print ('Hello World')
+print  ("Hello world")
+print  (4+5)
+print (45)
+print  (2*2)
